@@ -1,3 +1,8 @@
+Predit the blood brain barrier permeability of molecules
+- tested 2 nns, 2 svms
+- tested models on paper data and on own calculated 72 CDK descriptors 
+
+
 Description of manually curated blood-brain-barrier (BBB) compounds dataset files.
 dataset files are in .csv format.
 •y_test_indices.csv file contains 7162 BBB compound SMILES and permeability of each compound is in binary values (0 for non-permeable and 1 for permeable)
