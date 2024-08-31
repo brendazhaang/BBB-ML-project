@@ -1,4 +1,4 @@
-Predit the blood brain barrier permeability of molecules
+Predict the blood brain barrier permeability of molecules
 - tested 2 nns, 2 svms
 - tested models on paper data and on own calculated 72 CDK descriptors 
 
